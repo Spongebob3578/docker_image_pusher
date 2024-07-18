@@ -3,3 +3,4 @@ nginx:1.7.9
 #支持指定架构
 fluentd:v1.6-1
 memcached:1.6.29-bookworm
+jettech/kube-webhook-certgen:v1.5.2
