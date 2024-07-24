@@ -1,1 +1,1 @@
-dyrnq/nfs-subdir-external-provisioner:v4.0.0
+pull redis:7.2.5
