@@ -1,1 +1,1 @@
-grafana/grafana:8.5.5
+willdockerhub/prometheus-adapter:v0.9.1
